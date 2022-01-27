@@ -8,6 +8,4 @@
 <a href="https://linkedin.com/in/ali-sayyah-b31488171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-sayyah-b31488171" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisayyah&show_icons=true&theme=dark&locale=en&layout=compact" alt="alisayyah" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisayyah&show_icons=true&theme=dark&locale=en" alt="alisayyah" /></p>
